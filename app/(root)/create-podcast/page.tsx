@@ -3,8 +3,10 @@ import React from 'react'
 const CreatePodcast
  = () => {
   return (
-    <div>CreatePodcast
-        
+    <div>
+      <h1 className="text-20 font-bold text-white">
+        Create-podcast
+      </h1>
     </div>
   )
 }
